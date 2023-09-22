@@ -3,7 +3,7 @@
 ## Writing good documentation
 ### Step 1 - Using codeblocks
 
-Codeblocks in markdown make it *very easy* for tech people to **copy, paste,share code**. A good __Cloud Engineer__ uses codeblocks whenever possible because it allows others to copy and paste their code to replicate/ research issues.
+- Codeblocks in markdown make it *very easy* for tech people to **copy, paste,share code**. A good __Cloud Engineer__ uses codeblocks whenever possible because it allows others to copy and paste their code to replicate/ research issues.
 
 - A code block in Golang
 ```
@@ -66,3 +66,18 @@ func main() {
 
 - How to add images 2
 <img width="400px" src="https://github.com/Msaghu/github-docs-example2023/assets/77676513/29673492-87bf-419d-b159-b7f7ba386d5c" />
+
+- Using a codeblock to show an error that appears in bash
+```bash
+Error: division by zero is not allowed
+```
+> Shows an error in golang
+
+### Step 3 - Use Github Flavored Markdown Task lists
+
+- Using Github to check off items from a list. []
+
+### REFERENCES
+- [Learn Git Branching](https://learngitbranching.js.org/) <sup>[1]</sup>
+- [Git --fast-version-control](https://git-scm.com/book/en/v2) <sup>[2]</sup>
+- [
