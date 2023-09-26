@@ -75,7 +75,7 @@ Error: division by zero is not allowed
 
 ### Step 3 - Use Github Flavored Markdown Task lists
 
-- Github extends markdiown to have a list where you can check off items. <sup>[3]</sup>
+- Github extends markdiown to have a list where you can check off items. [<sup>[3]</sup>](#references)
 - [x] Finish step 1
 - [ ] Finish step 2
 - [x] Finish step 3
@@ -99,7 +99,8 @@ Error: division by zero is not allowed
 | Cloud | `:cloud:` | :cloud: |
 | Cloud | `:cloud_with_lightning:` | :cloud_with_lightning: |
 ```
- Github allows us to extend th e functionality of Maekdown tables to provide more aligh=nment and table cell formatting options. :[<sup>[4]</sup>](#references)
+
+- Github allows us to extend the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[4]</sup>](#references)
 
 ### References
 - [Learn Git Branching](https://learngitbranching.js.org/) <sup>[1]</sup>
