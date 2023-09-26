@@ -76,9 +76,34 @@ Error: division by zero is not allowed
 ### Step 3 - Use Github Flavored Markdown Task lists
 
 - Github extends markdiown to have a list where you can check off items. <sup>[3]</sup>
-- Using Github to check off items from a list. []
+- [x] Finish step 1
+- [ ] Finish step 2
+- [x] Finish step 3
 
-### REFERENCES
+### Step 4 - Use Emojis (Optional)
+
+- Github Flavoured Markdown (GFM) supports emoji shortcodes.
+- Here are some examples:
+
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+| Cloud | `:cloud_with_lightning:` | :cloud_with_lightning: |
+
+### step 5 - How to create a Table
+- You can use the following markdow to create tables:
+
+```markdown
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+| Cloud | `:cloud_with_lightning:` | :cloud_with_lightning: |
+```
+ Github allows us to extend th e functionality of Maekdown tables to provide more aligh=nment and table cell formatting options. :[<sup>[4]</sup>](#references)
+
+### References
 - [Learn Git Branching](https://learngitbranching.js.org/) <sup>[1]</sup>
 - [Git --fast-version-control](https://git-scm.com/book/en/v2) <sup>[2]</sup>
-- [Github Flavoured Markdown Task lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) <sup>[3]</sup>
+- [Github Flavoured Markdown - Task lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) <sup>[3]</sup>
+- [Github Flavoured Markdown - Emoji Cheatssheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Github Flavoured Markdown - Tables(with extensions)](https://github.github.com/gfm/#tables-extension) <sup>[4]</sup>
