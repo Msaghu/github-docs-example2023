@@ -75,9 +75,10 @@ Error: division by zero is not allowed
 
 ### Step 3 - Use Github Flavored Markdown Task lists
 
+- Github extends markdiown to have a list where you can check off items. <sup>[3]</sup>
 - Using Github to check off items from a list. []
 
 ### REFERENCES
 - [Learn Git Branching](https://learngitbranching.js.org/) <sup>[1]</sup>
 - [Git --fast-version-control](https://git-scm.com/book/en/v2) <sup>[2]</sup>
-- [
+- [Github Flavoured Markdown Task lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) <sup>[3]</sup>
