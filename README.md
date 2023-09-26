@@ -138,6 +138,8 @@ Remember that the exact key combinations or methods may vary slightly depending 
 - Github allows us to extend the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[4]</sup>](#references)
 ![Photo of Linux book](assets/Capture2.jpg)
 
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+
 ### References
 - [Learn Git Branching](https://learngitbranching.js.org/) <sup>[1]</sup>
 - [Git --fast-version-control](https://git-scm.com/book/en/v2) <sup>[2]</sup>
