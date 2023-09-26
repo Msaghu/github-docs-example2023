@@ -75,8 +75,38 @@ Error: division by zero is not allowed
 
 ### Step 2 - How to take screenshots
 - A screenshot is when we take a photo of our work envronment/code.
+
 **DONT DO THIS**
 ![a photo with your phone](assets)
+
+You can take screenshots on both Mac and Windows using hotkeys. Here are the common hotkeys for taking screenshots on both operating systems:
+
+**DO THIS INSTEAD**
+- To take screenshots, do the following on either MAC or Windows.
+  
+**On Mac (macOS):**
+
+1. **Capture the Entire Screen:** Press `Command (⌘) + Shift + 3`. The screenshot will be saved to your desktop by default.
+
+2. **Capture a Selected Portion of the Screen:** Press `Command (⌘) + Shift + 4`, then use your mouse to select the area you want to capture. The screenshot will be saved to your desktop.
+
+3. **Capture a Specific Window:** Press `Command (⌘) + Shift + 4`, then press the `Spacebar`. Your cursor will turn into a camera icon. Click on the window you want to capture. The screenshot of that specific window will be saved to your desktop.
+
+**On Windows:**
+
+1. **Capture the Entire Screen:** Press `PrtScn` (Print Screen) key. The screenshot is copied to your clipboard, and you can paste it into an image editor like Paint or a document.
+
+2. **Capture the Active Window:** Press `Alt + PrtScn`. This captures only the currently active window and copies it to your clipboard.
+
+3. **Capture a Selected Portion of the Screen (Windows 10 and later):** Press `Win + Shift + S`. This opens the Snip & Sketch tool, allowing you to select a portion of the screen. The screenshot is copied to your clipboard.
+
+4. **Capture a Specific Window (Windows 10 and later):** Press `Alt + Tab` to switch between open windows. While holding `Alt`, press `PrtScn` to capture the currently selected window. The screenshot is copied to your clipboard.
+
+5. **Using Snipping Tool (Windows 7 and 8):** You can use the Snipping Tool application. Open it, select the type of snip you want (e.g., Free-form Snip, Rectangular Snip), capture the screen area, and then save the screenshot.
+
+6. **Using Snip & Sketch (Windows 10 and later):** You can use the Snip & Sketch app, which provides more advanced screenshot options. Press `Win + Shift + S` to open it and capture a portion of the screen.
+
+Remember that the exact key combinations or methods may vary slightly depending on your specific Windows version. Additionally, on Windows, the screenshots are usually copied to the clipboard, so you need to paste them into an application (e.g., Paint, Word, or an image editor) to save or edit them.
 
 ### Step 3 - Use Github Flavored Markdown Task lists
 
