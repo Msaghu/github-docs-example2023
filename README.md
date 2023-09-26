@@ -73,6 +73,11 @@ Error: division by zero is not allowed
 ```
 > Shows an error in golang
 
+### Step 2 - How to take screenshots
+- A screenshot is when we take a photo of our work envronment/code.
+**DONT DO THIS**
+![a photo with your phone](assets)
+
 ### Step 3 - Use Github Flavored Markdown Task lists
 
 - Github extends markdiown to have a list where you can check off items. [<sup>[3]</sup>](#references)
@@ -101,6 +106,7 @@ Error: division by zero is not allowed
 ```
 
 - Github allows us to extend the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[4]</sup>](#references)
+![Photo of Linux book](assets/Capture2.jpg)
 
 ### References
 - [Learn Git Branching](https://learngitbranching.js.org/) <sup>[1]</sup>
