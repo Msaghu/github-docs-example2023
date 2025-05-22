@@ -68,7 +68,7 @@ func main() {
 <img width="400px" src="https://github.com/Msaghu/github-docs-example2023/assets/77676513/29673492-87bf-419d-b159-b7f7ba386d5c" />
 
 - Using a codeblock to show an error that appears in bash
-```bash
+```golang
 Error: division by zero is not allowed
 ```
 > Shows an error in golang
