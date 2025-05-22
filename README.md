@@ -6,7 +6,7 @@
 - Codeblocks in markdown make it *very easy* for tech people to **copy, paste,share code**. A good __Cloud Engineer__ uses codeblocks whenever possible because it allows others to copy and paste their code to replicate/ research issues.
 
 - A code block in Golang
-```
+```golang
 package main
 
 import (
@@ -110,7 +110,7 @@ Remember that the exact key combinations or methods may vary slightly depending 
 
 ### Step 3 - Use Github Flavored Markdown Task lists
 
-- Github extends markdiown to have a list where you can check off items. [<sup>[3]</sup>](#references)
+- Github extends markdown to have a list where you can check off items. [<sup>[3]</sup>](#references)
 - [x] Finish step 1
 - [ ] Finish step 2
 - [x] Finish step 3
